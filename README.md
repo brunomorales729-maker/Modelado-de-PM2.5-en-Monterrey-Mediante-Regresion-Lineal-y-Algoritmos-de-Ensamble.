@@ -1,0 +1,2 @@
+# Modelado-de-PM2.5-en-Monterrey-Mediante-Regresion-Lineal-y-Algoritmos-de-Ensamble.
+Este proyecto de Ciencia de Datos analiza y predice las concentraciones diarias de material particulado fino (PM2.5) en la Zona Metropolitana de Monterrey a lo largo de un año, contrastando el desempeño de un modelo de Regresión Lineal Múltiple frente a un algoritmo no lineal de Random Forest. Utilizandoun un filtrado por eliminación hacia atrás
